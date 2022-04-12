@@ -3,7 +3,7 @@ https://github.com/nocodb/nocodb
 # heroku
 
 Version
-0.84.12
+0.84.16
 
 
 ## 1-Click Deploy
